@@ -1,0 +1,24 @@
+{
+  "name": "webdesigner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabkram/WebDesginer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabkram/WebDesginer/issues"
+  },
+  "homepage": "https://github.com/tabkram/WebDesginer#readme",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "httpserver": "^0.2.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,20 @@
+{
+  "name": "WebDesginer",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tabkram/WebDesginer",
+  "authors": [
+    "L-Wiss <wassimbenameur@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular2-build": "~2.0.0-alpha.34",
+    "jquery": "~2.2.1"
+  }
+}
